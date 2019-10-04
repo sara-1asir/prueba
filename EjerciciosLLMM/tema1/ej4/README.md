@@ -9,7 +9,7 @@ ejercicio 4 parte 1
 
 **negrita**
 
-texto
+Markdown es una sintaxis ligera y fácil de usar para diseñar todas las formas de escritura en la plataforma GitHub.
 >Lista desordenada
 * texto
 * texto
