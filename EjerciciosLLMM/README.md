@@ -1,3 +1,3 @@
 # Ejercicios de LLMM
 
-[Ejercicio1](Ej1.html)
+[Ejercicio1](ej1.html)
