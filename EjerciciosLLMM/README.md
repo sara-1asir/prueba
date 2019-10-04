@@ -3,7 +3,7 @@
 
 [Ejercicio3](tema1/ej3.html)
 
-[Ejercicio4] (tema1/ej4/README.md)
+[Ejercicio4] (https://github.com/sara-1asir/prueba/blob/master/EjerciciosLLMM/tema1/ej4/README.md)
 
 
 Enunciado | Actividades
