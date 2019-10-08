@@ -1,8 +1,5 @@
 # Ejercicios de LLMM
 
-> [Ejercicio4] (https://github.com/sara-1asir/prueba/blob/master/EjerciciosLLMM/tema1/ej4/README.md)
-
-
 Enunciado | Actividades
 ------------ | -------------
 1. Crea una página web sencilla con un encabezado h1 y un pequeño párrafo de texto de tu elección | [Ejercicio1](tema1/ej1.html)
