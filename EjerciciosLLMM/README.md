@@ -11,6 +11,6 @@ Crea un documento xml que incluya información sobre un par de libros de una bib
 Enunciado | Actividades
 ---------------------------------- | -----------------------------------
 Ejercicio 1 Tema 2 | [Ejercicio1](tema2/ej1.html)
-Ejercicio 2 Tema 2 | [Ejercicio1](tema2/ej2.html)
-Ejercicio 3 Tema 2 | [Ejercicio1](tema2/ej3.html)
-Ejercicio 4 Tema 2 | [Ejercicio1](tema2/ej4.html)
+Ejercicio 2 Tema 2 | [Ejercicio2](tema2/ej2.html)
+Ejercicio 3 Tema 2 | [Ejercicio3](tema2/ej3.html)
+Ejercicio 4 Tema 2 | [Ejercicio4](tema2/ej4.html)
