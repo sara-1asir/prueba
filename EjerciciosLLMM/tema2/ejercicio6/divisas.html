@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en-ES">
+<head>
+<title>Cambio de moneda</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="divisas.css">
+<script>
+
+function CambioMoneda (euros,monedas){
+var x = parseInt(euros);
+var y = monedas;
+		if (y=="libras") {
+		 document.getElementById("resultado").innerHTML = x * 0.86;
+		}
+	else
+		if (y=="dolar")	{
+		document.getElementById("resultado").innerHTML = x * 1.13;
+		}
+	else
+		if (y=="yen")	{
+		document.getElementById("resultado").innerHTML = x * 124.93;
+		}
+	}
+	
+</script>
+
+</head>
+
+<body>
+<h2><label for="text">Elige el cambio:</label></h2><br>
+<form>   
+		<input id="euros"></input>
+		
+<select id="monedas" onchange= "CambioMoneda(euros.value,monedas.value)" >
+			<option value="dolar">dolar</option>
+			<option value="yen">yen</option>
+			<option value="libras">libra</option>
+</select><br> 
+
+<p id="resultado"></p>
+</form>
+</body>
+</html>
