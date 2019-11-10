@@ -1,0 +1,37 @@
+header{
+	font-size:50px;
+	color:darkred;
+	text-decoration: underline;
+}
+body {
+	background-color: powderblue;
+}
+#uno {
+
+	border: 5px dotted;
+}
+#pa1 {
+	margin: 0px;
+	padding: 50px;
+}
+#dos {
+	border: 5px solid;
+}
+#pa2 {
+	margin: 30px;
+	padding: 0px;
+}	
+#tres {
+	border: 10px groove;
+}
+#pa3 {
+	margin: 50px;
+	padding: 30px;
+}	
+#cuatro {
+	border: 10px inset;
+}
+#pa4 {
+	margin: 30px;
+	padding: 50px;
+}	
