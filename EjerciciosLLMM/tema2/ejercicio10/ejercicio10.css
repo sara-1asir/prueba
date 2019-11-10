@@ -1,0 +1,44 @@
+#uno {
+	border-color: YellowGreen;
+	border: 5px dotted;
+	color: midnightblue;
+	background-color: wheat;
+}
+#pa1 {
+	border: 5px dashed;
+	color: CadetBlue;
+	background-color: DarkRed;
+}
+#dos {
+	border-color: Violet;
+	border: 5px solid;
+	color: BlueViolet ;
+	background-color: Aquamarine ;
+}
+#pa2 {
+	border: 10px double;
+	color: Black ;
+	background-color: Beige;
+}	
+#tres {
+	border-color: Teal;
+	border: 10px groove;
+	color: Indigo;
+	background-color: LightCoral ;
+}
+#pa3 {
+	border: 10px ridge;
+	color: DarkBlue  ;
+	background-color: DarkGray;
+}	
+#cuatro {
+	border: 10px inset;
+	border-color: SeaGreen;
+	color: Navy  ;
+	background-color: LightGreen;
+}
+#pa4 {
+	border: 10px outset;
+	color: SaddleBrown;
+	background-color: Orange;
+}	
