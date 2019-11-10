@@ -1,0 +1,52 @@
+body {
+	background-color: powderblue;
+}
+header{
+	font-size:50px;
+	color:darkred;
+	text-decoration: underline;
+}	
+#uno {
+	font-family: verdana;
+	color: midnightblue;
+	background-color: wheat;
+}
+#pa1 {
+	text-align: center;
+	color: CadetBlue;
+	background-color: DarkRed;
+	font-family: courier
+}
+#dos {
+	font-family: verdana;
+	color: BlueViolet ;
+	background-color: Aquamarine ;
+}
+#pa2 {
+	text-align: left;
+	color: Black ;
+	background-color: Beige;
+	font-family: courier
+}	
+#tres {
+	font-family: verdana;
+	color: Indigo;
+	background-color: LightCoral ;
+}
+#pa3 {
+	text-align: right;
+	color: DarkBlue  ;
+	background-color: DarkGray;
+	font-family: courier
+}	
+#cuatro {
+	font-family: verdana;
+	color: Navy  ;
+	background-color: LightGreen;
+}
+#pa4 {
+	text-align: justify;
+	color: OrangeRed;
+	background-color: Peru;
+	font-family: courier
+}	
