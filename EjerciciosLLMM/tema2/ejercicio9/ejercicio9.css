@@ -6,8 +6,13 @@ header{
 	color:darkred;
 	text-decoration: underline;
 }	
-#uno {
+h1{
 	font-family: verdana;
+}
+p{
+	font-family: courier
+}
+#uno {
 	color: midnightblue;
 	background-color: wheat;
 }
@@ -15,10 +20,8 @@ header{
 	text-align: center;
 	color: CadetBlue;
 	background-color: DarkRed;
-	font-family: courier
 }
 #dos {
-	font-family: verdana;
 	color: BlueViolet ;
 	background-color: Aquamarine ;
 }
@@ -26,10 +29,8 @@ header{
 	text-align: left;
 	color: Black ;
 	background-color: Beige;
-	font-family: courier
 }	
 #tres {
-	font-family: verdana;
 	color: Indigo;
 	background-color: LightCoral ;
 }
@@ -37,10 +38,8 @@ header{
 	text-align: right;
 	color: DarkBlue  ;
 	background-color: DarkGray;
-	font-family: courier
 }	
 #cuatro {
-	font-family: verdana;
 	color: Navy  ;
 	background-color: LightGreen;
 }
@@ -48,5 +47,4 @@ header{
 	text-align: justify;
 	color: SaddleBrown;
 	background-color: Orange;
-	font-family: courier
 }	
