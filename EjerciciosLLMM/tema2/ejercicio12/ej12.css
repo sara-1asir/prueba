@@ -1,0 +1,14 @@
+body {
+	background-color: powderblue;
+}
+
+table, th, td {
+  border: 2px solid red;
+}
+
+table {
+	width:30%;
+}
+h1 {
+	text-decoration: underline;
+}
