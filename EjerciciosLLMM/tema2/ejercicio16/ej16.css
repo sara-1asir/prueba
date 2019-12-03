@@ -1,0 +1,13 @@
+body {
+	background-color: lightblue;
+}
+img {
+	width:42px;
+	height:42px;
+}
+#img1 {
+	float: right;
+}
+#img2 {
+	float: left;
+}
