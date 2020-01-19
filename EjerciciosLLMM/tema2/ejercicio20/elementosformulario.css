@@ -1,0 +1,36 @@
+body {
+	background-color: #85e0e0;
+}
+header {
+	text-align: center;
+}
+nav {
+	background-color: #89e06c;
+	border: 2px solid;
+	border-radius: 4px;
+	color: #660000
+}
+div {
+	border-radius: 7px;
+	background-color: #eeccff;
+	border: 2px solid blue;
+	padding:5px
+}
+h2 {
+	color: #24478f;
+	font-family: arial;
+	text-decoration: underline
+}
+fieldset {
+	border-radius: px;
+	width: 50px
+}
+#genero {
+	border-radius: 4px;
+	width: 110px
+}
+a:hover {
+    color: orange;
+    background-color: transparent;
+    text-decoration: underline;
+}
