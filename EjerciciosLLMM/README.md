@@ -32,3 +32,11 @@ Ejercicio 19 | [Ejercicio19](tema2/ejercicio19)
 Ejercicio 20 | [Ejercicio 20](tema2/ejercicio20)
 Ejercicio 21 | [Ejercicio 21](tema2/ejercicio21)
 Ejercicio 22 | [Ejercicio 22](tema2/ejercicio22)
+
+
+Tema 2 | Actividades DOM
+---------------------------------- | -----------------------------------
+Desafío 1 | [Desafío1](tema2/DOM/desafioDOM1.html)
+Desafío 2 | [Desafío2](tema2/DOM/desafioDOM2.html)
+Desafío 3 | [Desafío3](tema2/DOM/desafioDOM3.html)
+Desafío 4 | [Desafío4](tema2/DOM/desafioDOM4.html)
