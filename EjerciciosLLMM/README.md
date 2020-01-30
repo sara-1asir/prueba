@@ -32,7 +32,10 @@ Ejercicio 19 | [Ejercicio19](tema2/ejercicio19)
 Ejercicio 20 | [Ejercicio 20](tema2/ejercicio20)
 Ejercicio 21 | [Ejercicio 21](tema2/ejercicio21)
 Ejercicio 22 | [Ejercicio 22](tema2/ejercicio22)
-
+Ejercicio 23 | [Ejercicio 23](tema2/ejercicio23)
+Ejercicio 24 | [Ejercicio 24](tema2/ejercicio24)
+Ejercicio 25 | [Ejercicio 25](tema2/ejercicio25)
+Ejercicio 26 | [Ejercicio 26](tema2/ejercicio26)
 
 Tema 2 | Actividades DOM
 ---------------------------------- | -----------------------------------
