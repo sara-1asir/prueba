@@ -43,3 +43,7 @@ Desafío 1 | [Desafío1](tema2/DOM/desafioDOM1.html)
 Desafío 2 | [Desafío2](tema2/DOM/desafioDOM2.html)
 Desafío 3 | [Desafío3](tema2/DOM/desafioDOM3.html)
 Desafío 4 | [Desafío4](tema2/DOM/desafioDOM4.html)
+
+Tema 2 | Actividades CSS
+---------------------------------- | -----------------------------------
+Ejercicio 1 | [Ejercicio1](tema2/ejerciciosCSS/ejercicio1)
