@@ -47,3 +47,12 @@ Desafío 4 | [Desafío4](tema2/DOM/desafioDOM4.html)
 Tema 2 | Actividades CSS
 ---------------------------------- | -----------------------------------
 Ejercicio 1 | [Ejercicio1](tema2/ejerciciosCSS/ejercicio1)
+Ejercicio 2 | [Ejercicio2](tema2/ejerciciosCSS/ejercicio2)
+Ejercicio 4 | [Ejercicio4](tema2/ejerciciosCSS/ejercicio4)
+
+Tema 2 | Actividades Posicionamiento
+---------------------------------- | -----------------------------------
+Ejercicio 1 | [Ejercicio1](tema2/ejerciciosCSS/ejercicios_posicionamientos/ejercicio1)
+Ejercicio 2 | [Ejercicio2](tema2/ejerciciosCSS/ejercicios_posicionamientos/ejercicio2)
+Ejercicio 3 | [Ejercicio3](tema2/ejerciciosCSS/ejercicios_posicionamientos/ejercicio3)
+Ejercicio 4 | [Ejercicio4](tema2/ejerciciosCSS/ejercicios_posicionamientos/ejercicio4)
