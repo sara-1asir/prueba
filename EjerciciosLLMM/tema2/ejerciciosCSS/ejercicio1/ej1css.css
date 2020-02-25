@@ -1,0 +1,59 @@
+* {
+	box-sizing:border-box;
+}
+
+h1 {
+	font-family: Georgia;
+	color: blue;
+	background-color: lightgray;
+	font-weight: bold;
+	font-size:24px;
+	letter-spacing: 1.6em;
+	word-spacing: 2em;
+	text-align:center;
+	}
+	
+h2 {
+	font-family: Georgia;
+	color: darkred;
+	font-size:15px;
+	letter-spacing: 1.4em;
+	}
+	
+.columna:after {
+	clear:both;
+}
+	
+.periodo {
+	font-weight: bold;
+	float:left;
+	width:30%;		
+}
+
+.datos {
+	font-family: Arial;
+	color: black;
+	font-size:16px;
+	width:50%;
+	float:left;
+}
+
+#parrafo {
+	font-family: Arial;
+	color: black;
+	font-size:16px;
+}
+
+#uno {
+	margin: auto;
+	width: 70%;
+	overflow: auto;
+	border: 3px solid black;
+	padding: 10px;
+}
+
+@media screen and (max-width: 600px) {
+  .peroido, .datos {
+    width: 100%;
+  }
+}
