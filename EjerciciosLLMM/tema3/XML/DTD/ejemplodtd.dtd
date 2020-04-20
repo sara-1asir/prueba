@@ -1,0 +1,12 @@
+<!ELEMENT curso (titulo, unidad+)>
+<!ATTLIST CDATA #REQUIRED>
+
+<!ELEMENT titulo (#PCDATA)>
+
+<!ELEMENT unidad (lecciones)>
+<!ATTLIST unidad titulo CDATA #REQUIRED>
+
+<!ELEMENT lecciones (leccion+)>
+
+<!ELEMENT leccion (#PCDATA)>
+<!ATTLIST leccion titulo CDATA #REQUIRED>

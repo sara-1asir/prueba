@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<mensaje>
+  <sender> nombre y apellidos </sender>
+  <receiver> nombre y apellidos </receiver>
+  <information> informacion </information>
+  <body>texto</body>
+  <signature>firma</signature>
+</mensaje>
+

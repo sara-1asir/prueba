@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CDList category="music">
+   <CD>
+    <artists> artista </artists>
+    <songs> canciones </songs>
+    <name_record> discografica </name_record>
+    <publishing_year> fecha de lanzamiento </publishing_year>
+    <music_category>  categoria </music_category>
+  </CD>
+  
+  <CD>
+    <artists> artista </artists>
+    <songs> canciones </songs>
+    <name_record> discografica </name_record>
+    <publishing_year> fecha de lanzamiento </publishing_year>
+    <music_category>  categoria </music_category>
+  </CD>
+  
+</CDList>

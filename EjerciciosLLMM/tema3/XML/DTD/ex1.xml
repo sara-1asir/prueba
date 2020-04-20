@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agenda [
+  <!ELEMENT agenda (contactos*)>
+  <!ELEMENT contactos (name, address, telephone, e-mail, age, Marital-Status)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT address (#PCDATA)>
+  <!ELEMENT telephone (#PCDATA)>
+  <!ELEMENT e-mail (#PCDATA)>
+  <!ELEMENT age (#PCDATA)>
+  <!ELEMENT Marital-Status EMPTY>
+    <!ATTLIST Marital-Status estado (C | S | V | D) #REQUIRED>
+]>
+
+<agenda>
+   <contactos>
+      <name>nombre</name>
+      <address>direccion</address>
+      <telephone>655641659</telephone>
+      <e-mail>direcion@direcion.com</e-mail>
+      <age>65</age>
+      <Marital-Status estado="V"/>
+   </contactos>
+   <contactos>
+      <name>nombre</name>
+      <address>direccion</address>
+      <telephone>655641659</telephone>
+      <e-mail>direcion@direcion.com</e-mail>
+      <age>65</age>
+      <Marital-Status estado="C"/>
+   </contactos>
+</agenda>
+

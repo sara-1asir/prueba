@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE parts [
+<!ELEMENT parts (part+)>
+<!ELEMENT part (name, catalog_number, (thread? | type?), price_code, quantity)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT catalog_number (#PCDATA)>
+<!ELEMENT thread (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT price_code (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
+
+]>
+
+
+<parts>
+ <part>
+  <name>Widget</name>
+  <catalog_number>11037</catalog_number><!-- en las etiquetas no pueden ir espacios -->
+  <price_code>4</price_code><!-- en las etiquetas no pueden ir espacios -->
+  <quantity>d</quantity>
+ </part>
+ <part>
+  <name>Bolt</name>
+  <catalog_number>11497</catalog_number>
+  <thread>w</thread>
+  <price_code>1</price_code>
+  <quantity>100</quantity>
+ </part>
+ <part>
+  <name>Screw</name>
+  <catalog_number>10020</catalog_number>
+  <type>countersunk</type>
+  <price_code>7</price_code>
+  <quantity>c</quantity>
+ </part>
+</parts>

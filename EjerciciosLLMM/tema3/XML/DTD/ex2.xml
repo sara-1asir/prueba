@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agenda [
+  <!ELEMENT agenda (contactos*)>
+  <!ELEMENT contactos (First_Name, Last_Name, address, telephone, e-mail+, company, age, Marital-Status)>
+ <!ELEMENT First_Name (#PCDATA)>
+  <!ELEMENT Last_Name (#PCDATA)>
+  <!ELEMENT address (street, no, zip, country)>
+  <!ELEMENT street (#PCDATA)>
+  <!ELEMENT no (#PCDATA)>
+  <!ELEMENT zip (#PCDATA)>
+  <!ELEMENT country (#PCDATA)>
+  <!ELEMENT telephone (#PCDATA)>
+  <!ELEMENT e-mail (#PCDATA)>
+  <!ELEMENT company (name, web)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT web (web_name, url)>
+  <!ELEMENT web_name (#PCDATA)>
+  <!ELEMENT url (#PCDATA)>
+  <!ELEMENT URL (#PCDATA)>
+  <!ELEMENT age (#PCDATA)>
+  <!ELEMENT Marital-Status EMPTY>
+    <!ATTLIST Marital-Status estado (C | S | V | D) #REQUIRED>
+]>
+
+<agenda>
+   <contactos>
+      <First_Name>nombre</First_Name>
+      <Last_Name>apellidos</Last_Name>
+      <address>
+          <street>calle</street>
+          <no>numero</no>
+          <zip>zip</zip>
+          <country>country</country>
+      </address>
+      <telephone>655641659</telephone>
+      <e-mail>direcion@direcion.com</e-mail>
+      <e-mail>idderdmj@kdcemi.com</e-mail>
+      <company>
+        <name>nombre</name>
+        <web>
+          <web_name>edelpd</web_name>
+          <url>http://www.company.com/</url>
+        </web>
+      </company>
+      <age>65</age>
+      <Marital-Status estado="V"/>
+   </contactos>
+      <contactos>
+      <First_Name>nombre</First_Name>
+      <Last_Name>apellidos</Last_Name>
+      <address>
+          <street>calle</street>
+          <no>numero</no>
+          <zip>zip</zip>
+          <country>country</country>
+      </address>
+      <telephone>655854659</telephone>
+      <e-mail>direcion@direcion.com</e-mail>
+      <e-mail>idderdmj@kdcemi.com</e-mail>
+      <company>
+        <name>nombre</name>
+        <web>
+          <web_name>edelpd</web_name>
+          <url>http://www.company.com/</url>
+        </web>
+      </company>
+      <age>65</age>
+      <Marital-Status estado="C"/>
+   </contactos>
+</agenda>

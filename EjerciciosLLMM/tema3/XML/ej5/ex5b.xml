@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- This CD has more tracks than in this file -->
+<CDList category="music">
+   <CD serial="B6B41B" disc-length="36:55"> 
+    <artists> artista </artists>
+    <songs> canciones </songs>
+    <name_record> discografica </name_record>
+    <publishing_year> fecha de lanzamiento </publishing_year>
+    <music_category>  categoria </music_category>
+  </CD>
+  
+  <CD serial="B6B41B" disc-length="36:55"> 
+    <artists> artista </artists>
+    <songs> canciones </songs>
+    <name_record> discografica </name_record>
+    <publishing_year> fecha de lanzamiento </publishing_year>
+    <music_category>  categoria </music_category>
+  </CD>
+  
+</CDList>
