@@ -61,5 +61,6 @@ Tema 3 | Actividades XLM DTD
 ---------------------------------- | -----------------------------------
 Ejercicio 1 | [Ejercicio1](tema3/XML/DTD/ex1.xml)
 Ejercicio 2 | [Ejercicio2](tema3/XML/DTD/ex2.xml)
-
-
+Ejercicio 3 | [Ejercicio3](tema3/XML/DTD/ex3.xml)
+Ejercicio 4 | [Ejercicio4](tema3/XML/DTD/ex4.xml)
+Ejercicio 5 | [Ejercicio5](tema3/XML/DTD/ex5.xml)
