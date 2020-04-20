@@ -56,3 +56,10 @@ Ejercicio 1 | [Ejercicio1](tema2/ejerciciosCSS/ejercicios_posicionamientos/ejerc
 Ejercicio 2 | [Ejercicio2](tema2/ejerciciosCSS/ejercicios_posicionamientos/ejercicio2)
 Ejercicio 3 | [Ejercicio3](tema2/ejerciciosCSS/ejercicios_posicionamientos/ejercicio3)
 Ejercicio 4 | [Ejercicio4](tema2/ejerciciosCSS/ejercicios_posicionamientos/ejercicio4)
+
+Tema 3 | Actividades XLM DTD
+---------------------------------- | -----------------------------------
+Ejercicio 1 | [Ejercicio1](tema3/XML/DTD/ex1.xml)
+Ejercicio 2 | [Ejercicio2](tema3/XML/DTD/ex2.xml)
+
+
